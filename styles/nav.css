@@ -1,0 +1,35 @@
+.nav {
+  height: 120px;
+  align-items: center;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  border: 1px solid rgb(218, 106, 106);
+  height: 50px;
+  padding-top: 10px;
+}
+
+.nav-wrapper {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 35px;
+}
+
+.nav {
+  color: hsl(0, 7%, 94%);
+
+  cursor: pointer;
+
+  font-weight: 500;
+  font-size: 28px;
+}
+
+.nav-contacts {
+  display: flex;
+  gap: 25px;
+}

@@ -1,0 +1,18 @@
+@import url(nav.css);
+@import url(introduce.css);
+@import url(about.css);
+
+h1,
+h2,
+h3,
+p {
+  font-weight: 400;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 1400px;
+  background-image: url("https://altermind.com/wp-content/uploads/2020/04/home-bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
