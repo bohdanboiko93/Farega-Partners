@@ -11,6 +11,7 @@ p {
 
 body {
   margin: 0 auto;
+  height: 1500px;
   max-width: 1400px;
   background-image: url("https://altermind.com/wp-content/uploads/2020/04/home-bg.jpg");
   background-size: cover;
